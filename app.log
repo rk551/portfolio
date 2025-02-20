@@ -1,0 +1,230 @@
+2025-02-19 11:16:04,750 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 11:16:04,751 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 11:16:04,756 - INFO -  * Restarting with stat
+2025-02-19 11:16:05,545 - WARNING -  * Debugger is active!
+2025-02-19 11:16:05,669 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 11:16:12,829 - INFO - 127.0.0.1 - - [19/Feb/2025 11:16:12] "GET / HTTP/1.1" 200 -
+2025-02-19 11:16:14,801 - INFO - 127.0.0.1 - - [19/Feb/2025 11:16:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-19 11:20:25,734 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 11:20:25,857 - INFO -  * Restarting with stat
+2025-02-19 11:20:26,932 - WARNING -  * Debugger is active!
+2025-02-19 11:20:26,939 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 11:25:17,385 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 11:25:17,534 - INFO -  * Restarting with stat
+2025-02-19 11:25:18,552 - WARNING -  * Debugger is active!
+2025-02-19 11:25:18,558 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 11:26:22,803 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 11:26:22,803 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 11:26:22,806 - INFO -  * Restarting with stat
+2025-02-19 11:26:23,515 - WARNING -  * Debugger is active!
+2025-02-19 11:26:23,520 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 11:26:28,515 - INFO - 127.0.0.1 - - [19/Feb/2025 11:26:28] "GET / HTTP/1.1" 200 -
+2025-02-19 12:01:54,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 12:01:54,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 12:01:54,559 - INFO -  * Restarting with stat
+2025-02-19 12:01:55,238 - WARNING -  * Debugger is active!
+2025-02-19 12:01:55,244 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 12:01:57,849 - INFO - 127.0.0.1 - - [19/Feb/2025 12:01:57] "GET / HTTP/1.1" 200 -
+2025-02-19 12:01:59,648 - INFO - 127.0.0.1 - - [19/Feb/2025 12:01:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-19 12:08:42,122 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 12:08:42,122 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 12:08:42,125 - INFO -  * Restarting with stat
+2025-02-19 12:08:42,814 - WARNING -  * Debugger is active!
+2025-02-19 12:08:42,818 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 12:08:45,704 - INFO - 127.0.0.1 - - [19/Feb/2025 12:08:45] "GET / HTTP/1.1" 200 -
+2025-02-19 12:13:09,317 - INFO - 127.0.0.1 - - [19/Feb/2025 12:13:09] "GET / HTTP/1.1" 200 -
+2025-02-19 12:13:11,084 - INFO - 127.0.0.1 - - [19/Feb/2025 12:13:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-19 12:23:40,647 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 12:23:40,648 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 12:23:40,651 - INFO -  * Restarting with stat
+2025-02-19 12:23:41,352 - WARNING -  * Debugger is active!
+2025-02-19 12:23:41,358 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 12:23:44,308 - INFO - 127.0.0.1 - - [19/Feb/2025 12:23:44] "GET / HTTP/1.1" 200 -
+2025-02-19 12:48:20,537 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 12:48:20,538 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 12:48:20,543 - INFO -  * Restarting with stat
+2025-02-19 12:48:24,457 - WARNING -  * Debugger is active!
+2025-02-19 12:48:24,462 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 12:48:24,543 - INFO - 127.0.0.1 - - [19/Feb/2025 12:48:24] "GET / HTTP/1.1" 200 -
+2025-02-19 12:55:13,667 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 12:55:13,667 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 12:55:13,671 - INFO -  * Restarting with stat
+2025-02-19 12:55:14,636 - WARNING -  * Debugger is active!
+2025-02-19 12:55:14,641 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 12:55:39,151 - INFO - 127.0.0.1 - - [19/Feb/2025 12:55:39] "GET / HTTP/1.1" 200 -
+2025-02-19 13:43:33,698 - INFO - 127.0.0.1 - - [19/Feb/2025 13:43:33] "GET / HTTP/1.1" 200 -
+2025-02-19 14:11:00,789 - INFO - 127.0.0.1 - - [19/Feb/2025 14:11:00] "GET / HTTP/1.1" 200 -
+2025-02-19 14:11:01,148 - INFO - 127.0.0.1 - - [19/Feb/2025 14:11:01] "GET /static/images/hero.png HTTP/1.1" 200 -
+2025-02-19 14:13:30,111 - INFO - 127.0.0.1 - - [19/Feb/2025 14:13:30] "GET / HTTP/1.1" 200 -
+2025-02-19 14:13:30,208 - INFO - 127.0.0.1 - - [19/Feb/2025 14:13:30] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 14:13:58,345 - INFO - 127.0.0.1 - - [19/Feb/2025 14:13:58] "GET / HTTP/1.1" 200 -
+2025-02-19 14:13:58,390 - INFO - 127.0.0.1 - - [19/Feb/2025 14:13:58] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 15:03:44,807 - INFO - 127.0.0.1 - - [19/Feb/2025 15:03:44] "GET / HTTP/1.1" 200 -
+2025-02-19 15:03:44,903 - INFO - 127.0.0.1 - - [19/Feb/2025 15:03:44] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 15:11:38,844 - INFO - 127.0.0.1 - - [19/Feb/2025 15:11:38] "GET / HTTP/1.1" 200 -
+2025-02-19 15:11:39,562 - INFO - 127.0.0.1 - - [19/Feb/2025 15:11:39] "GET /static/images/hero.png HTTP/1.1" 200 -
+2025-02-19 15:44:47,980 - INFO - 127.0.0.1 - - [19/Feb/2025 15:44:47] "GET / HTTP/1.1" 200 -
+2025-02-19 15:44:48,081 - INFO - 127.0.0.1 - - [19/Feb/2025 15:44:48] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 15:53:25,615 - INFO - 127.0.0.1 - - [19/Feb/2025 15:53:25] "GET / HTTP/1.1" 200 -
+2025-02-19 15:53:25,711 - INFO - 127.0.0.1 - - [19/Feb/2025 15:53:25] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 15:58:41,511 - INFO - 127.0.0.1 - - [19/Feb/2025 15:58:41] "GET / HTTP/1.1" 200 -
+2025-02-19 15:58:43,220 - INFO - 127.0.0.1 - - [19/Feb/2025 15:58:43] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 16:11:11,804 - INFO - 127.0.0.1 - - [19/Feb/2025 16:11:11] "GET / HTTP/1.1" 200 -
+2025-02-19 16:11:13,813 - INFO - 127.0.0.1 - - [19/Feb/2025 16:11:13] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 16:27:11,384 - INFO - 127.0.0.1 - - [19/Feb/2025 16:27:11] "GET / HTTP/1.1" 200 -
+2025-02-19 16:27:11,668 - INFO - 127.0.0.1 - - [19/Feb/2025 16:27:11] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 16:31:02,952 - INFO - 127.0.0.1 - - [19/Feb/2025 16:31:02] "GET / HTTP/1.1" 200 -
+2025-02-19 16:31:03,247 - INFO - 127.0.0.1 - - [19/Feb/2025 16:31:03] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 16:59:57,660 - INFO - 127.0.0.1 - - [19/Feb/2025 16:59:57] "GET / HTTP/1.1" 200 -
+2025-02-19 16:59:57,756 - INFO - 127.0.0.1 - - [19/Feb/2025 16:59:57] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 17:16:47,054 - INFO - 127.0.0.1 - - [19/Feb/2025 17:16:47] "GET / HTTP/1.1" 200 -
+2025-02-19 18:31:17,447 - INFO - 127.0.0.1 - - [19/Feb/2025 18:31:17] "GET / HTTP/1.1" 200 -
+2025-02-19 18:51:36,354 - INFO -  * Detected change in 'E:\\websites\\portfolio\\test_backend.py', reloading
+2025-02-19 18:51:37,009 - INFO -  * Restarting with stat
+2025-02-19 18:51:39,939 - WARNING -  * Debugger is active!
+2025-02-19 18:51:39,947 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 18:51:41,998 - INFO -  * Detected change in 'E:\\websites\\portfolio\\test_backend.py', reloading
+2025-02-19 18:51:42,085 - INFO -  * Restarting with stat
+2025-02-19 18:51:43,095 - WARNING -  * Debugger is active!
+2025-02-19 18:51:43,100 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 18:51:46,142 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 18:51:46,209 - INFO -  * Restarting with stat
+2025-02-19 18:51:47,011 - WARNING -  * Debugger is active!
+2025-02-19 18:51:47,015 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 18:57:26,178 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 18:57:26,179 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 18:57:26,182 - INFO -  * Restarting with stat
+2025-02-19 18:57:26,881 - WARNING -  * Debugger is active!
+2025-02-19 18:57:26,887 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 18:57:42,706 - INFO - 127.0.0.1 - - [19/Feb/2025 18:57:42] "GET /api/test HTTP/1.1" 200 -
+2025-02-19 18:57:44,728 - INFO - 127.0.0.1 - - [19/Feb/2025 18:57:44] "GET /api/test HTTP/1.1" 200 -
+2025-02-19 18:57:46,772 - INFO - 
+========== New Contact Form Submission ==========
+2025-02-19 18:57:46,772 - INFO - 1. Configuration Check:
+2025-02-19 18:57:46,772 - INFO - SMTP_SERVER: smtp.gmail.com
+2025-02-19 18:57:46,772 - INFO - SMTP_PORT: 587
+2025-02-19 18:57:46,773 - INFO - SENDER_EMAIL: kalecreative01@gmail.com
+2025-02-19 18:57:46,773 - INFO - EMAIL_PASSWORD length: 16
+2025-02-19 18:57:46,773 - INFO - 
+2. Received Data:
+2025-02-19 18:57:46,773 - INFO - Data: {'name': 'Test User', 'email': 'test@example.com', 'subject': 'Test Message', 'message': 'This is a test message'}
+2025-02-19 18:57:47,325 - INFO - 
+3. Starting SMTP Process:
+2025-02-19 18:57:47,325 - INFO - 3.1 Establishing connection...
+2025-02-19 18:57:47,325 - INFO - 3.2 Starting TLS...
+2025-02-19 18:57:48,117 - INFO - 3.3 Attempting login...
+2025-02-19 18:57:48,118 - INFO - Using email: kalecreative01@gmail.com
+2025-02-19 18:57:49,068 - INFO - 3.4 Sending message...
+2025-02-19 18:57:49,068 - INFO - Message details: From=kalecreative01@gmail.com, To=kalecreative01@gmail.com, Subject=Portfolio Contact: Test Message
+2025-02-19 18:57:51,578 - INFO - 3.5 Message sent successfully!
+2025-02-19 18:57:51,826 - INFO - 
+4. Process Completed Successfully!
+2025-02-19 18:57:51,826 - INFO - ===========================================
+2025-02-19 18:57:51,827 - INFO - 127.0.0.1 - - [19/Feb/2025 18:57:51] "POST /api/contact HTTP/1.1" 200 -
+2025-02-19 18:58:16,084 - INFO - 127.0.0.1 - - [19/Feb/2025 18:58:16] "GET / HTTP/1.1" 200 -
+2025-02-19 20:13:18,513 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 20:13:18,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 20:13:18,517 - INFO -  * Restarting with stat
+2025-02-19 20:13:19,214 - WARNING -  * Debugger is active!
+2025-02-19 20:13:19,220 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 20:13:31,616 - INFO - 127.0.0.1 - - [19/Feb/2025 20:13:31] "GET /api/test HTTP/1.1" 200 -
+2025-02-19 20:13:33,637 - INFO - 127.0.0.1 - - [19/Feb/2025 20:13:33] "GET /api/test HTTP/1.1" 200 -
+2025-02-19 20:13:35,694 - INFO - 
+========== New Contact Form Submission ==========
+2025-02-19 20:13:35,694 - INFO - 1. Configuration Check:
+2025-02-19 20:13:35,694 - INFO - SMTP_SERVER: smtp.gmail.com
+2025-02-19 20:13:35,694 - INFO - SMTP_PORT: 587
+2025-02-19 20:13:35,694 - INFO - SENDER_EMAIL: kalecreative01@gmail.com
+2025-02-19 20:13:35,694 - INFO - EMAIL_PASSWORD length: 16
+2025-02-19 20:13:35,694 - INFO - 
+2. Received Data:
+2025-02-19 20:13:35,695 - INFO - Data: {'name': 'Test User', 'email': 'test@example.com', 'subject': 'Test Message', 'message': 'This is a test message'}
+2025-02-19 20:13:36,218 - INFO - 
+3. Starting SMTP Process:
+2025-02-19 20:13:36,218 - INFO - 3.1 Establishing connection...
+2025-02-19 20:13:36,218 - INFO - 3.2 Starting TLS...
+2025-02-19 20:13:36,996 - INFO - 3.3 Attempting login...
+2025-02-19 20:13:36,997 - INFO - Using email: kalecreative01@gmail.com
+2025-02-19 20:13:37,979 - INFO - 3.4 Sending message...
+2025-02-19 20:13:37,980 - INFO - Message details: From=kalecreative01@gmail.com, To=kalecreative01@gmail.com, Subject=Portfolio Contact: Test Message
+2025-02-19 20:13:39,596 - INFO - 3.5 Message sent successfully!
+2025-02-19 20:13:39,837 - INFO - 
+4. Process Completed Successfully!
+2025-02-19 20:13:39,837 - INFO - ===========================================
+2025-02-19 20:13:39,837 - INFO - 127.0.0.1 - - [19/Feb/2025 20:13:39] "POST /api/contact HTTP/1.1" 200 -
+2025-02-19 20:13:40,050 - INFO - 127.0.0.1 - - [19/Feb/2025 20:13:40] "GET / HTTP/1.1" 200 -
+2025-02-19 20:14:14,955 - INFO - 127.0.0.1 - - [19/Feb/2025 20:14:14] "GET / HTTP/1.1" 200 -
+2025-02-19 21:22:58,777 - INFO - 127.0.0.1 - - [19/Feb/2025 21:22:58] "GET / HTTP/1.1" 200 -
+2025-02-19 21:24:33,057 - INFO - 127.0.0.1 - - [19/Feb/2025 21:24:33] "GET / HTTP/1.1" 200 -
+2025-02-19 21:27:39,452 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 21:27:39,452 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 21:27:39,455 - INFO -  * Restarting with stat
+2025-02-19 21:27:40,040 - WARNING -  * Debugger is active!
+2025-02-19 21:27:40,044 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 21:27:55,091 - INFO - 127.0.0.1 - - [19/Feb/2025 21:27:55] "GET / HTTP/1.1" 200 -
+2025-02-19 21:28:17,733 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 21:28:18,223 - INFO -  * Restarting with stat
+2025-02-19 21:28:23,989 - WARNING -  * Debugger is active!
+2025-02-19 21:28:24,001 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 21:40:34,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 21:40:34,039 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 21:40:34,041 - INFO -  * Restarting with stat
+2025-02-19 21:40:34,869 - WARNING -  * Debugger is active!
+2025-02-19 21:40:34,874 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 21:40:41,981 - INFO - 127.0.0.1 - - [19/Feb/2025 21:40:41] "GET / HTTP/1.1" 200 -
+2025-02-19 21:40:42,199 - INFO - 127.0.0.1 - - [19/Feb/2025 21:40:42] "[36mGET /static/images/hero.png HTTP/1.1[0m" 304 -
+2025-02-19 21:41:29,317 - INFO - 127.0.0.1 - - [19/Feb/2025 21:41:29] "GET / HTTP/1.1" 200 -
+2025-02-19 21:44:16,908 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 21:44:16,909 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 21:44:16,911 - INFO -  * Restarting with stat
+2025-02-19 21:44:17,567 - WARNING -  * Debugger is active!
+2025-02-19 21:44:17,572 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 21:44:31,885 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-19 21:44:31,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-19 21:44:31,890 - INFO -  * Restarting with stat
+2025-02-19 21:44:32,650 - WARNING -  * Debugger is active!
+2025-02-19 21:44:32,655 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 21:44:41,115 - INFO - 127.0.0.1 - - [19/Feb/2025 21:44:41] "GET / HTTP/1.1" 200 -
+2025-02-19 21:45:36,703 - INFO - 127.0.0.1 - - [19/Feb/2025 21:45:36] "GET / HTTP/1.1" 200 -
+2025-02-19 21:57:22,889 - INFO - 127.0.0.1 - - [19/Feb/2025 21:57:22] "GET / HTTP/1.1" 200 -
+2025-02-19 22:02:59,557 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 22:02:59,932 - INFO -  * Restarting with stat
+2025-02-19 22:03:01,238 - WARNING -  * Debugger is active!
+2025-02-19 22:03:01,243 - INFO -  * Debugger PIN: 104-146-875
+2025-02-19 22:43:17,591 - INFO - 127.0.0.1 - - [19/Feb/2025 22:43:17] "GET / HTTP/1.1" 200 -
+2025-02-19 22:43:20,020 - INFO - 127.0.0.1 - - [19/Feb/2025 22:43:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-19 22:43:31,776 - INFO - 127.0.0.1 - - [19/Feb/2025 22:43:31] "GET / HTTP/1.1" 200 -
+2025-02-19 22:46:45,149 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-19 22:46:45,388 - INFO -  * Restarting with stat
+2025-02-19 22:46:47,829 - WARNING -  * Debugger is active!
+2025-02-19 22:46:47,854 - INFO -  * Debugger PIN: 104-146-875
+2025-02-20 12:25:39,770 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-20 12:25:39,771 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 12:25:39,777 - INFO -  * Restarting with stat
+2025-02-20 12:25:42,059 - WARNING -  * Debugger is active!
+2025-02-20 12:25:42,297 - INFO -  * Debugger PIN: 104-146-875
+2025-02-20 12:25:43,018 - INFO - 127.0.0.1 - - [20/Feb/2025 12:25:43] "GET / HTTP/1.1" 200 -
+2025-02-20 12:25:44,978 - INFO - 127.0.0.1 - - [20/Feb/2025 12:25:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-20 12:33:52,297 - INFO - 127.0.0.1 - - [20/Feb/2025 12:33:52] "GET / HTTP/1.1" 200 -
+2025-02-20 13:33:25,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-20 13:33:25,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 13:33:25,241 - INFO -  * Restarting with stat
+2025-02-20 13:33:26,452 - WARNING -  * Debugger is active!
+2025-02-20 13:33:26,469 - INFO -  * Debugger PIN: 104-146-875
+2025-02-20 13:33:29,333 - INFO - 127.0.0.1 - - [20/Feb/2025 13:33:29] "GET / HTTP/1.1" 200 -
+2025-02-20 13:33:31,437 - INFO - 127.0.0.1 - - [20/Feb/2025 13:33:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
