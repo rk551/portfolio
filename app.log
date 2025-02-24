@@ -228,3 +228,7 @@
 2025-02-20 13:33:26,469 - INFO -  * Debugger PIN: 104-146-875
 2025-02-20 13:33:29,333 - INFO - 127.0.0.1 - - [20/Feb/2025 13:33:29] "GET / HTTP/1.1" 200 -
 2025-02-20 13:33:31,437 - INFO - 127.0.0.1 - - [20/Feb/2025 13:33:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-20 14:45:37,663 - INFO -  * Detected change in 'E:\\websites\\portfolio\\app.py', reloading
+2025-02-20 14:45:38,091 - INFO -  * Restarting with stat
+2025-02-20 14:45:41,080 - WARNING -  * Debugger is active!
+2025-02-20 14:45:41,093 - INFO -  * Debugger PIN: 104-146-875

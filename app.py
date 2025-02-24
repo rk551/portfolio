@@ -1,5 +1,10 @@
 from flask import Flask, request, jsonify, render_template
-from flask_cors import CORS
+try:
+    from flask_cors import CORS
+except ImportError:
+    print("Warning: flask-cors not installed. CORS functionality will be limited.")
+    def CORS(app): return app
+
 from dotenv import load_dotenv
 import smtplib
 from email.mime.text import MIMEText
